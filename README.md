@@ -1,2 +1,3 @@
 # hello-world
-I'm learning...Lol
+Flowey: Howdy I'm Flowey, Flowey the flower.
+Chara: Greetings, I am Chara.
